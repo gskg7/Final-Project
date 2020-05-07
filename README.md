@@ -28,7 +28,7 @@ For contributing to the tutorial the following is needed to get started:
 
 ## Fork the repository
 
-First fork the [DjangoGirls/tutorial](https://github.com/DjangoGirls/tutorial) repository to your personal GitHub account:
+First fork the [GSKG7 Tutorial](https://github.com/gskg7/Final-Project.git) repository to your personal GitHub account:
 
 ![Fork button](contributing/images/fork.png)
 
